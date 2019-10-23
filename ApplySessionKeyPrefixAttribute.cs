@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.SessionState;
 
-namespace LeVel.Presentation.Common
+namespace Application
 {
     /// <summary>
     /// Applies a case-insensitive prefix to all Session variables.
